@@ -1,2 +1,3 @@
-# counter
-Contador com loopíng para turma de outubro
+# contador animado
+
+Projeto que trabalha javascript e looping para os alunos do curso de webdesign, turma de outubro. 
